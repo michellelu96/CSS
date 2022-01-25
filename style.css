@@ -1,0 +1,24 @@
+h1 {
+    color:cyan;
+    background-color: black;
+    font-family: sans-serif;
+}
+.My{
+    color:white;
+    background-color:black;
+    font-family: sans-serif;
+}
+h2{
+    color: white;
+    background-color: indigo;
+    text-align:center;
+    font-style: italic;
+    font-family: monospace;
+}
+h3{
+    color: black;
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    font-family: serif;
+}
